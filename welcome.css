@@ -1,0 +1,16 @@
+body{
+    background:black;
+    background-attachment: fixed;
+}
+.card{
+    width: 400px;
+    margin: 20vh auto 0 auto;
+    background-color: azure;
+    padding: 20px;
+    
+    text-align: center;
+    
+
+    
+
+}
